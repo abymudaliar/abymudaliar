@@ -1,7 +1,7 @@
 Hello I am Abhishek Mudaliar.
 
 - 👋 Hi, I’m @abymudaliar
-- 👀 I’m interested in Frond-End Web Development.
+- 👀 I’m interested in Front-End Web Development.
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me abymudaliar@gmail.com
 <!---
